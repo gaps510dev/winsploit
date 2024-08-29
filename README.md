@@ -13,7 +13,7 @@ Also thanks to Draco for the API used.
 
 ## Installation
 
-1. **Open synapse z folder**: Open the folder where the synz bootstrapper is located.
+1. **Open Synapse Z Folder**: Open the folder where the synz bootstrapper is located.
 
 2. **Drag Files Into It**: Move the files downloaded into this folder, make sure it is in the root of the folder and not nested.
 
