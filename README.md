@@ -1,4 +1,4 @@
-# Winsploit | A custom SynZ Interface
+# Winsploit | A custom SynZ interface
 
 ## Credits
 Thanks to the winsploit source leak for providing the UI & some base code.
